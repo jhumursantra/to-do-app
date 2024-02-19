@@ -2,7 +2,7 @@
 A simple to-do list app made by implementing only frontend technologies.
 
 ### Programming Languages
-- [Language 1]: HTML,CSS,JavaScript
+- [Language 1]: HTML,CSS,JavaScript.
 
 ## How to Run Locally
 - Hosted using the vercel app link.
